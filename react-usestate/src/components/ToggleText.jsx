@@ -1,14 +1,11 @@
 import React from "react";
 
-
 const Button = ()=>{
     return (
-        <div>
-            Click me
-        </div>
-    )
+        <button>Click Me</button>
+    );
 
-}
+};
 
 
 export default Button;
